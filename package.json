@@ -11,7 +11,7 @@
     "@ai-sdk/groq": "^3.0.39",
     "@upstash/redis": "^1.34.9",
     "ai": "^6.0.185",
-    "framer-motion": "^12.39.0",
+    "framer-motion": "^12.40.0",
     "lucide-react": "^1.16.0",
     "next": "16.2.6",
     "react": "19.2.4",
